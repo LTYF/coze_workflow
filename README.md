@@ -13,3 +13,7 @@
 新建的工作流中只有开始和结束两个节点，这时打开workflow.txt 文本文件，全选复制，并粘贴到工作区中，会自动生成所有流程节点。
 
 因为粘贴的工作流不包括开始和结束节点，需要手工配置。把原来的开始、结束节点连接复制过来的工作流，并且按照截图提示分别创建或关联相应的输入项和输出项（注意名称和类型要一致）。
+
+####交流
+欢迎加入coze交流群一起学习
+![COZE交流群](http://rd-media.oss-cn-hangzhou.aliyuncs.com/ljw/aiqnw/qrcode.jpg?OSSAccessKeyId=LTAI4FfBV51y6mbgxdq7sTjQ&Expires=2117557786&Signature=bjPEju9qkrOufoRFwPdwbfqEBv0%3D)
