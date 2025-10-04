@@ -20,4 +20,4 @@
 
 欢迎加入coze交流群一起学习。
 
-![COZE交流群](http://rd-media.oss-cn-hangzhou.aliyuncs.com/ljw/aiqnw/qrcode.jpg?OSSAccessKeyId=LTAI4FfBV51y6mbgxdq7sTjQ&Expires=3601758623637&Signature=4ahYnIlOgcbBvSxNPq2CLleqYNw%3D).
+![COZE交流群](https://gitee.com/cozeworkflow/free/raw/master/webwxgetmsgimg.jpg).
