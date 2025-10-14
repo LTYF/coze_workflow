@@ -20,4 +20,4 @@
 
 欢迎加入coze交流群一起学习。
 
-![COZE交流群](https://gitee.com/cozeworkflow/free/raw/master/webwxgetmsgimg.jpg).
+![COZE交流群](https://raw.gitcode.com/user-images/assets/7507850/34793406-d6b5-4ec2-b9cf-de3734e21d94/qr.png).
