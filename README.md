@@ -20,4 +20,4 @@
 
 欢迎加入coze交流群一起学习。
 
-![COZE交流群](https://raw.gitcode.com/user-images/assets/7507850/34793406-d6b5-4ec2-b9cf-de3734e21d94/qr.png).
+![COZE交流群](https://raw.gitcode.com/user-images/assets/7507850/a636074d-1388-4a86-83ee-6ee81690647b/qr.png).
