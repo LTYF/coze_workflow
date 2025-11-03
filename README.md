@@ -23,4 +23,4 @@
 
 欢迎加入coze交流群一起学习。
 
-![COZE交流群](http://rd-media.oss-cn-hangzhou.aliyuncs.com/ljw/aiqnw/qr.png?OSSAccessKeyId=LTAI4FfBV51y6mbgxdq7sTjQ&Expires=2121553699&Signature=EzqDLCpD1%2FqnKMdC6fpDaqNevzw%3D).
+![COZE交流群](http://rd-media.oss-cn-hangzhou.aliyuncs.com/ljw/aiqnw/qr.png?OSSAccessKeyId=LTAI4FfBV51y6mbgxdq7sTjQ&Expires=1798152006&Signature=vho0dqeu6ktD%2FEcG40GqXulx2hg%3D).
