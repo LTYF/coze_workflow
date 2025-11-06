@@ -8,6 +8,7 @@
 3. 沉浸式历史故事
 4. 儿童古诗词视频版
 5. 智能剪辑
+6. .。。
 
 ## 两种导入模式
 
@@ -23,4 +24,9 @@
 
 欢迎加入coze交流群一起学习。
 
-![COZE交流群](http://rd-media.oss-cn-hangzhou.aliyuncs.com/ljw/aiqnw/qr.png?OSSAccessKeyId=LTAI4FfBV51y6mbgxdq7sTjQ&Expires=1798152006&Signature=vho0dqeu6ktD%2FEcG40GqXulx2hg%3D).
+![输入图片说明](http://rd-media.oss-cn-hangzhou.aliyuncs.com/ljw/aiqnw/qr.jpg?OSSAccessKeyId=LTAI4FfBV51y6mbgxdq7sTjQ&Expires=1798389729&Signature=BAfXOYUwa6HT8k8jQFacm0yytwo%3D)
+![输入图片说明](http://rd-media.oss-cn-hangzhou.aliyuncs.com/ljw/aiqnw/qr2.png?OSSAccessKeyId=LTAI4FfBV51y6mbgxdq7sTjQ&Expires=1798389771&Signature=1bG5RbTjTn3jJyPTsPFuxrpFmus%3D)
+
+##
+使用教学视频：
+https://v.douyin.com/vrfDaCtnOno/
