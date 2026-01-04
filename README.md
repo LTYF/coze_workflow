@@ -24,8 +24,8 @@
 
 欢迎加入coze交流群一起学习。
 
-![输入图片说明](http://rd-media.oss-cn-hangzhou.aliyuncs.com/ljw/aiqnw/qr.jpg?OSSAccessKeyId=LTAI4FfBV51y6mbgxdq7sTjQ&Expires=1798389729&Signature=BAfXOYUwa6HT8k8jQFacm0yytwo%3D)
-![输入图片说明](http://rd-media.oss-cn-hangzhou.aliyuncs.com/ljw/aiqnw/qr2.png?OSSAccessKeyId=LTAI4FfBV51y6mbgxdq7sTjQ&Expires=1802557777&Signature=GboTh9aR9Qi8LfOulsjbIbEEnsE%3D)
+![输入图片说明](http://rd-media.oss-cn-hangzhou.aliyuncs.com/ljw/aiqnw/qr.jpg?OSSAccessKeyId=LTAI5tCRWK1vSbrFGvTAhurV&Expires=2127498212&Signature=t%2BlkVZLbeHdP7mDPKVC7Ez8PBRE%3D)
+![输入图片说明](http://rd-media.oss-cn-hangzhou.aliyuncs.com/ljw/aiqnw/qr2.png?OSSAccessKeyId=LTAI5tCRWK1vSbrFGvTAhurV&Expires=2127498245&Signature=hU5rDYodeofQZ4ucBm3FXmQK0zU%3D)
 
 ##
 使用教学视频：
